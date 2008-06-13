@@ -7,4 +7,4 @@ Implementations of the URI Template specification. Add yours to the list.
 
   * [http://pear.php.net/package/URI_Template PHP]
   * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)]
-  * 
+ 
