@@ -2,11 +2,13 @@
 
 = Introduction =
 
-Implementations of the URI Template specification. Add yours to the list.
+Implementations of the URI Template specification. This project 
+contains a Python implementation. Please add yours to the list or drop a pointer to one in the comments:
 
 
   * [http://pear.php.net/package/URI_Template PHP]
   * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)]
   * [http://www.snellspace.com/wp/?p=831 JavaScript]
+  * [http://github.com/juretta/uri-templates/tree/master Ruby]
 
  
