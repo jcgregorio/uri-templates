@@ -10,5 +10,8 @@ contains a Python implementation. Please add yours to the list or drop a pointer
   * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)]
   * [http://www.snellspace.com/wp/?p=831 JavaScript]
   * [http://github.com/juretta/uri-templates/tree/master Ruby]
+  * [http://addressable.rubyforge.org/ Ruby]
+  * [http://tfletcher.com/dev/erlang-uri-template Erlang]
+
 
  
