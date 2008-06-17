@@ -12,6 +12,8 @@ contains a Python implementation. Please add yours to the list or drop a pointer
   * [http://github.com/juretta/uri-templates/tree/master Ruby]
   * [http://addressable.rubyforge.org/ Ruby]
   * [http://tfletcher.com/dev/erlang-uri-template Erlang]
+  * [http://www.metanotion.net/software/urlmapper/ Java]
+
 
 
  
