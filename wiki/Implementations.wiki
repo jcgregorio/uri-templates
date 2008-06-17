@@ -14,6 +14,6 @@ contains a Python implementation. Please add yours to the list or drop a pointer
   * [http://tfletcher.com/dev/erlang-uri-template Erlang]
   * [http://www.metanotion.net/software/urlmapper/ Java]
 
-
+If you leave a pointer to a project in the comments I will remove your comment after I have added it to the list (nothing personal, this will just make it easier for me to track which links I've added to the list).
 
  
