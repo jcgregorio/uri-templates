@@ -1,0 +1,10 @@
+#summary Specifications
+
+= Introduction =
+
+There have been several revisions of the spec published:
+
+  * [http://uri-templates.googlecode.com/svn/trunk/spec/draft-gregorio-uritemplate-00.html draft-gregorio-uritemplate-00]
+  * [http://uri-templates.googlecode.com/svn/trunk/spec/draft-gregorio-uritemplate-01.html draft-gregorio-uritemplate-01]
+  * [http://uri-templates.googlecode.com/svn/trunk/spec/draft-gregorio-uritemplate-02.html draft-gregorio-uritemplate-02]
+  * [http://uri-templates.googlecode.com/svn/trunk/spec/draft-gregorio-uritemplate-03.html draft-gregorio-uritemplate-03]
