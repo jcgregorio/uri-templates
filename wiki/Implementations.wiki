@@ -2,19 +2,24 @@
 
 = Introduction =
 
-Implementations of the URI Template specification. This project 
-contains a Python implementation. Please add yours to the list or drop a pointer to one in the comments:
+Other implementations of the URI Template specification, along with the version / level of the spec they claim to implement. 
 
-
-  * [http://pear.php.net/package/URI_Template PHP]
-  * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)]
-  * [http://www.snellspace.com/wp/?p=831 JavaScript]
-  * [http://github.com/juretta/uri-templates/tree/master Ruby]
-  * [http://addressable.rubyforge.org/ Ruby]
+  * [http://pear.php.net/package/URI_Template PHP] (?)
+  * [http://guzzlephp.org/tour/http.html#uri-templates PHP] (08)
+  * [http://github.com/juretta/uri-templates Ruby] (03)
+  * [http://addressable.rubyforge.org/ Ruby] (03)
+  * [https://rubygems.org/gems/uri_template Ruby] (07)
   * [http://tfletcher.com/dev/erlang-uri-template Erlang]
-  * [http://www.metanotion.net/software/urlmapper/ Java]
-  * [http://hackage.haskell.org/cgi-bin/hackage-scripts/package/uri-template Haskell]
-  * [http://search.cpan.org/dist/URI-Template/ Perl]
+  * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)] (?)
+  * [http://www.metanotion.net/software/urlmapper/ Java] (?)
+  * [https://github.com/trevorr/uritemplate Java] (08)
+  * [https://github.com/Cloudname/uritemplate Java] (?)
+  * [http://hackage.haskell.org/cgi-bin/hackage-scripts/package/uri-template Haskell] (?)
+  * [http://search.cpan.org/dist/URI-Template/ Perl] (03)
+  * [https://bitbucket.org/dfa/uritemplate Clojure] (06)
+  * [http://sourceforge.net/projects/opendkim C] (?)
+  * [https://github.com/darrelmiller/UriTemplates C#] (08)
+  * [https://github.com/damnhandy/Handy-URI-Templates Java] (RFC level 4)
 
 
 If you leave a pointer to a project in the comments I will remove your comment after I have added it to the list (nothing personal, this will just make it easier for me to track which links I've added to the list).
