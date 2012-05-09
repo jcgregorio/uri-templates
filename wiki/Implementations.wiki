@@ -13,6 +13,7 @@ Other implementations of the URI Template specification, along with the version 
   * [http://www.metanotion.net/software/urlmapper/ Java] (?)
   * [https://github.com/trevorr/uritemplate Java] (08)
   * [https://github.com/Cloudname/uritemplate Java] (?)
+  * [http://code.google.com/p/uritemplate/ Java] (?)
   * [https://github.com/damnhandy/Handy-URI-Templates Java] (RFC level 4)
   * [http://search.cpan.org/dist/URI-Template/ Perl] (03)
   * [http://pear.php.net/package/URI_Template PHP] (?)
