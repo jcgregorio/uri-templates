@@ -17,6 +17,7 @@ Other implementations of the URI Template specification, along with the version 
   * [https://github.com/damnhandy/Handy-URI-Templates Java] (RFC level 4)
   * [https://github.com/marc-portier/uri-templates JavaScript] (?)
   * [http://search.cpan.org/dist/URI-Template/ Perl] (03)
+  * [https://github.com/uri-templates/uritemplate-py Python] (RFC level 4)
   * [http://pear.php.net/package/URI_Template PHP] (?)
   * [http://guzzlephp.org/tour/http.html#uri-templates PHP] (08)
   * [http://github.com/juretta/uri-templates Ruby] (03)
