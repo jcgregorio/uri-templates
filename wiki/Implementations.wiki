@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Other implementations of the URI Template specification, along with the version / level of the spec they claim to implement. 
+Implementations of the URI Template specification, along with the version / level of the spec they claim to implement. 
 
   * [http://sourceforge.net/projects/opendkim C] (?)
   * [https://github.com/darrelmiller/UriTemplates C#] (08)
