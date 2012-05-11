@@ -1,4 +1,4 @@
-#summary Other implementations of the URI Template specification
+#summary Implementations of the URI Template specification
 
 = Introduction =
 
