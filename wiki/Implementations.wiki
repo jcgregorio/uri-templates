@@ -7,6 +7,7 @@ Implementations of the URI Template specification, along with the version / leve
   * [http://sourceforge.net/projects/opendkim C] (?)
   * [https://github.com/darrelmiller/UriTemplates C#] (08)
   * [https://bitbucket.org/dfa/uritemplate Clojure] (06)
+  * [https://github.com/EiffelWebFramework/EWF/tree/master/library/protocol/uri_template Eiffel] (?)
   * [http://tfletcher.com/dev/erlang-uri-template Erlang]
   * [http://hackage.haskell.org/cgi-bin/hackage-scripts/package/uri-template Haskell] (?)
   * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)] (?)
