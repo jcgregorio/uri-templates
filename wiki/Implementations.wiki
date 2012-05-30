@@ -5,7 +5,7 @@
 Implementations of the URI Template specification, along with the version / level of the spec they claim to implement. 
 
   * [http://sourceforge.net/projects/opendkim C] (?)
-  * [https://github.com/darrelmiller/UriTemplates C#] (08)
+  * [https://github.com/tavis-software/UriTemplates C#] (RFC level 4)
   * [https://bitbucket.org/dfa/uritemplate Clojure] (06)
   * [https://github.com/EiffelWebFramework/EWF/tree/master/library/protocol/uri_template Eiffel] (?)
   * [http://tfletcher.com/dev/erlang-uri-template Erlang]
