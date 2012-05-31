@@ -4,6 +4,8 @@
 
 Implementations of the URI Template specification, [http://tools.ietf.org/html/rfc6570 RFC6570], along with the version / level of the spec they claim to implement (e.g., "08" for draft -08). 
 
+Implementers note: a [https://github.com/uri-templates/uritemplate-test common test suite] is being collected.
+
   * [http://sourceforge.net/projects/opendkim C] (?)
   * [https://github.com/tavis-software/UriTemplates C#] (RFC level 4)
   * [https://bitbucket.org/dfa/uritemplate Clojure] (06)
