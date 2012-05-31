@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Implementations of the URI Template specification, along with the version / level of the spec they claim to implement. 
+Implementations of the URI Template specification, [http://tools.ietf.org/html/rfc6570 RFC6570], along with the version / level of the spec they claim to implement (e.g., "08" for draft -08). 
 
   * [http://sourceforge.net/projects/opendkim C] (?)
   * [https://github.com/tavis-software/UriTemplates C#] (RFC level 4)
@@ -17,6 +17,7 @@ Implementations of the URI Template specification, along with the version / leve
   * [http://code.google.com/p/uritemplate/ Java] (?)
   * [https://github.com/damnhandy/Handy-URI-Templates Java] (RFC level 4)
   * [https://github.com/marc-portier/uri-templates JavaScript] (?)
+  * [https://github.com/grncdr/uri-template JavaScript / CoffeeScript] (08)
   * [http://common-lisp.net/project/uri-template/ Lisp] (01)
   * [http://search.cpan.org/dist/URI-Template/ Perl] (RFC level 4)
   * [https://github.com/uri-templates/uritemplate-py Python] (RFC level 4)
