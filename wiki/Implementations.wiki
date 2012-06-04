@@ -18,6 +18,7 @@ Implementers note: a [https://github.com/uri-templates/uritemplate-test common t
   * [https://github.com/Cloudname/uritemplate Java] (?)
   * [http://code.google.com/p/uritemplate/ Java] (?)
   * [https://github.com/damnhandy/Handy-URI-Templates Java] (RFC level 4)
+  * [http://code.google.com/p/wo-furi/ Java] (?)
   * [https://github.com/marc-portier/uri-templates JavaScript] (?)
   * [https://github.com/grncdr/uri-template JavaScript / CoffeeScript] (08)
   * [http://common-lisp.net/project/uri-template/ Lisp] (01)
