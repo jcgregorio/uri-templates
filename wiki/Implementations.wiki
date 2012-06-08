@@ -28,7 +28,7 @@ Implementers note: a [https://github.com/uri-templates/uritemplate-test common t
   * [http://guzzlephp.org/tour/http.html#uri-templates PHP] (08)
   * [https://github.com/KevBurnsJr/php-uri-template-parser PHP] (04)
   * [http://github.com/juretta/uri-templates Ruby] (03)
-  * [http://addressable.rubyforge.org/ Ruby] (03)
+  * [http://addressable.rubyforge.org/ Ruby] (RFC level 4)
   * [https://rubygems.org/gems/uri_template Ruby] (07)
 
 If you leave a pointer to a project in the comments I will remove your comment after I have added it to the list (nothing personal, this will just make it easier for me to track which links I've added to the list).
