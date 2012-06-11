@@ -21,6 +21,7 @@ Implementers note: a [https://github.com/uri-templates/uritemplate-test common t
   * [http://code.google.com/p/wo-furi/ Java] (?)
   * [https://github.com/marc-portier/uri-templates JavaScript] (?)
   * [https://github.com/grncdr/uri-template JavaScript / CoffeeScript] (08)
+  * [https://github.com/fxa/uritemplate-js JavaScript] (RFC level 4)
   * [http://common-lisp.net/project/uri-template/ Lisp] (01)
   * [http://search.cpan.org/dist/URI-Template/ Perl] (RFC level 4)
   * [https://github.com/uri-templates/uritemplate-py Python] (RFC level 4)
