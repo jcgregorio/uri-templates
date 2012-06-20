@@ -1,13 +1,24 @@
 #summary Implementations of the URI Template specification
 
-= Introduction =
+= RFC6570 Implementations =
 
-Implementations of the URI Template specification, [http://tools.ietf.org/html/rfc6570 RFC6570], along with the version / level of the spec they claim to implement (e.g., "08" for draft -08). 
+Implementations of the URI Template specification, [http://tools.ietf.org/html/rfc6570 RFC6570], along with the level of the spec they claim. 
 
-Implementers note: a [https://github.com/uri-templates/uritemplate-test common test suite] is being collected.
+*Implementers note*: a [https://github.com/uri-templates/uritemplate-test common test suite] is being collected.
+
+  * [https://github.com/tavis-software/UriTemplates C#] (level 4)
+  * [https://github.com/damnhandy/Handy-URI-Templates Java] (level 4)
+  * [https://github.com/fxa/uritemplate-js JavaScript] (level 4)
+  * [http://search.cpan.org/dist/URI-Template/ Perl] (level 4)
+  * [https://github.com/guzzle/guzzle PHP] (level 4)
+  * [https://github.com/uri-templates/uritemplate-py Python] (level 4)
+  * [http://addressable.rubyforge.org/ Ruby] (level 4)
+
+= Implementations of old drafts =
+
+These are implementations of older drafts (e.g., "06" for draft -06), or we can't determine what draft they're base upon ("?"). 
 
   * [http://sourceforge.net/projects/opendkim C] (?)
-  * [https://github.com/tavis-software/UriTemplates C#] (RFC level 4)
   * [https://bitbucket.org/dfa/uritemplate Clojure] (06)
   * [https://github.com/EiffelWebFramework/EWF/tree/master/library/protocol/uri_template Eiffel] (?)
   * [http://tfletcher.com/dev/erlang-uri-template Erlang]
@@ -17,21 +28,15 @@ Implementers note: a [https://github.com/uri-templates/uritemplate-test common t
   * [https://github.com/trevorr/uritemplate Java] (08)
   * [https://github.com/Cloudname/uritemplate Java] (?)
   * [http://code.google.com/p/uritemplate/ Java] (?)
-  * [https://github.com/damnhandy/Handy-URI-Templates Java] (RFC level 4)
   * [http://code.google.com/p/wo-furi/ Java] (?)
   * [https://github.com/marc-portier/uri-templates JavaScript] (?)
   * [https://github.com/grncdr/uri-template JavaScript / CoffeeScript] (08)
-  * [https://github.com/fxa/uritemplate-js JavaScript] (RFC level 4)
   * [http://common-lisp.net/project/uri-template/ Lisp] (01)
-  * [http://search.cpan.org/dist/URI-Template/ Perl] (RFC level 4)
-  * [https://github.com/uri-templates/uritemplate-py Python] (RFC level 4)
   * [http://pear.php.net/package/URI_Template PHP] (?)
-  * [https://github.com/guzzle/guzzle PHP] (RFC level 4)
   * [https://github.com/KevBurnsJr/php-uri-template-parser PHP] (04)
   * [http://github.com/juretta/uri-templates Ruby] (03)
-  * [http://addressable.rubyforge.org/ Ruby] (RFC level 4)
   * [https://rubygems.org/gems/uri_template Ruby] (07)
 
-If you leave a pointer to a project in the comments I will remove your comment after I have added it to the list (nothing personal, this will just make it easier for me to track which links I've added to the list).
+Please add comments below to update you project's status, or request a new one be added.
 
  
