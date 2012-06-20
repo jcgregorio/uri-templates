@@ -33,6 +33,7 @@ These are implementations of older drafts (e.g., "06" for draft -06), or we can'
   * [https://github.com/marc-portier/uri-templates JavaScript] (?)
   * [https://github.com/grncdr/uri-template JavaScript / CoffeeScript] (08)
   * [http://common-lisp.net/project/uri-template/ Lisp] (01)
+  * [https://github.com/bennettsmith/URITemplateKit Objective C] (?)
   * [http://pear.php.net/package/URI_Template PHP] (?)
   * [https://github.com/KevBurnsJr/php-uri-template-parser PHP] (04)
   * [http://github.com/juretta/uri-templates Ruby] (03)
