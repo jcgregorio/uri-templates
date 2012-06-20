@@ -13,6 +13,7 @@ Implementations of the URI Template specification, [http://tools.ietf.org/html/r
   * [https://github.com/guzzle/guzzle PHP] (level 4)
   * [https://github.com/uri-templates/uritemplate-py Python] (level 4)
   * [http://addressable.rubyforge.org/ Ruby] (level 4)
+  * [https://github.com/arktekk/uri-template Scala] (level 4)
 
 = Implementations of old drafts =
 
