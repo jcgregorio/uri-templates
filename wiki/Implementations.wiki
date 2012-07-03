@@ -8,7 +8,7 @@ Implementations of the URI Template specification, [http://tools.ietf.org/html/r
 
   * C# - [https://github.com/tavis-software/UriTemplates UriTemplates] (level 4)
   * Java - [https://github.com/damnhandy/Handy-URI-Templates Handy-URI-Templates] (level 4)
-  * Javascript -[https://github.com/fxa/uritemplate-js uritemplate-js] (level 4)
+  * Javascript - [https://github.com/fxa/uritemplate-js uritemplate-js] (level 4)
   * Perl - [http://search.cpan.org/dist/URI-Template/ URI::Template] (level 4)
   * PHP - [https://github.com/guzzle/guzzle Guzzle] (level 4)
   * PHP - [https://github.com/ioseb/uri-template C extension] (level 4)
