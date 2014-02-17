@@ -15,7 +15,7 @@ Implementations of the URI Template specification, [http://tools.ietf.org/html/r
   * Python - [https://github.com/uri-templates/uritemplate-py uritemplate-py] (level 4)
   * Ruby - [http://addressable.rubyforge.org/ addressable] (level 4)
   * Scala - [https://github.com/arktekk/uri-template uri-template] (level 4)
-  * Eiffel - [https://github.com/EiffelWebFramework/EWF/tree/master/library/text/parser/uri_templateEiffelWebFramework] (?)
+  * Eiffel - [https://github.com/EiffelWebFramework/EWF/tree/master/library/text/parser/uri_template EiffelWebFramework] (?)
   * Go - [https://github.com/jtacoma/uritemplates uritemplates] (level 4)
   * Clojure - [https://github.com/mwkuster/uritemplate-clj uritemplates-clj] (level 4)
   * Java - [https://github.com/fge/uri-template uri-template] (level 4)
