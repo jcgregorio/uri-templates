@@ -18,13 +18,13 @@ Implementations of the URI Template specification, [http://tools.ietf.org/html/r
   * Eiffel - [https://github.com/EiffelWebFramework/EWF/tree/master/library/text/parser/uri_templateEiffelWebFramework] (?)
   * Go - [https://github.com/jtacoma/uritemplates uritemplates] (level 4)
   * Clojure - [https://github.com/mwkuster/uritemplate-clj uritemplates-clj] (level 4)
-  * Java [https://github.com/fge/uri-template uri-template] (level 4)
-  * Objective-C [https://github.com/cogenta/CSURITemplate CSURITemplate] (level 4)
-  * PHP [https://github.com/Seebz/uri-template uri-template] (level 4)
-  * Dart [https://github.com/google/uri.dart uri.dart] (level 4)
-  * Scala [https://github.com/timt/uri-template uri-template] (level 4)
-  * Javascript [https://github.com/geraintluff/uri-templates uri-templates] (level 4)
-  * C# [https://github.com/a7b0/uri-templates Resta.UriTemplates] (level 4)
+  * Java - [https://github.com/fge/uri-template uri-template] (level 4)
+  * Objective-C - [https://github.com/cogenta/CSURITemplate CSURITemplate] (level 4)
+  * PHP - [https://github.com/Seebz/uri-template uri-template] (level 4)
+  * Dart - [https://github.com/google/uri.dart uri.dart] (level 4)
+  * Scala - [https://github.com/timt/uri-template uri-template] (level 4)
+  * Javascript - [https://github.com/geraintluff/uri-templates uri-templates] (level 4)
+  * C# - [https://github.com/a7b0/uri-templates Resta.UriTemplates] (level 4)
 
 
 = Implementations of old drafts =
