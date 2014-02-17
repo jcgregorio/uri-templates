@@ -25,31 +25,11 @@ Implementations of the URI Template specification, [http://tools.ietf.org/html/r
   * Scala - [https://github.com/timt/uri-template uri-template] (level 4)
   * Javascript - [https://github.com/geraintluff/uri-templates uri-templates] (level 4)
   * C# - [https://github.com/a7b0/uri-templates Resta.UriTemplates] (level 4)
+  * Ruby - [https://rubygems.org/gems/uri_template uri_template] (?)
+  * Javascript - [https://github.com/grncdr/uri-template uri-template] (?)
+  * Java - [https://github.com/Cloudname/uritemplate uritemplate] (?)
+  * Clojure - [https://bitbucket.org/dfa/uritemplate uritemplate] (?)
 
-
-= Implementations of old drafts =
-
-These are implementations of older drafts (e.g., "06" for draft -06), or we can't determine what draft they're base upon ("?"). 
-
-  * [http://sourceforge.net/projects/opendkim C] (?)
-  * [https://bitbucket.org/dfa/uritemplate Clojure] (06)
-  * [https://github.com/EiffelWebFramework/EWF/tree/master/library/protocol/uri_template Eiffel] (?)
-  * [http://tfletcher.com/dev/erlang-uri-template Erlang]
-  * [http://hackage.haskell.org/cgi-bin/hackage-scripts/package/uri-template Haskell] (?)
-  * [http://incubator.apache.org/abdera/docs/api/org/apache/abdera/i18n/templates/Template.html Abdera (Java)] (?)
-  * [http://www.metanotion.net/software/urlmapper/ Java] (?)
-  * [https://github.com/trevorr/uritemplate Java] (08)
-  * [https://github.com/Cloudname/uritemplate Java] (?)
-  * [http://code.google.com/p/uritemplate/ Java] (?)
-  * [http://code.google.com/p/wo-furi/ Java] (?)
-  * [https://github.com/marc-portier/uri-templates JavaScript] (?)
-  * [https://github.com/grncdr/uri-template JavaScript / CoffeeScript] (08)
-  * [http://common-lisp.net/project/uri-template/ Lisp] (01)
-  * [https://github.com/bennettsmith/URITemplateKit Objective C] (?)
-  * [http://pear.php.net/package/URI_Template PHP] (?)
-  * [https://github.com/KevBurnsJr/php-uri-template-parser PHP] (04)
-  * [http://github.com/juretta/uri-templates Ruby] (03)
-  * [https://rubygems.org/gems/uri_template Ruby] (07)
 
 Please add comments below to update you project's status, or request a new one be added.
 
